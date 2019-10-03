@@ -1,0 +1,318 @@
+.elementor-32 .elementor-element.elementor-element-72a0fdd6 > .elementor-container{max-width:1600px;}.elementor-32 .elementor-element.elementor-element-72a0fdd6:not(.elementor-motion-effects-element-type-background), .elementor-32 .elementor-element.elementor-element-72a0fdd6 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://demo.phlox.pro/architect/wp-content/uploads/sites/41/2018/06/berlin-s-government-district-PR8FXPE-1-min.jpg");background-position:top center;background-repeat:no-repeat;background-size:cover;}.elementor-32 .elementor-element.elementor-element-72a0fdd6{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-32 .elementor-element.elementor-element-72a0fdd6 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-32 .elementor-element.elementor-element-21451e44 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-modern-heading-primary{color:#ffffff;font-size:24px;font-weight:500;line-height:30px;letter-spacing:5.64px;margin:0px 0px 0px 0px;}.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-modern-heading-secondary{color:#ffffff;font-family:"Poppins", Sans-serif;font-size:79px;font-weight:700;line-height:91px;letter-spacing:-0.79px;max-width:830px;}.elementor-32 .elementor-element.elementor-element-336eafb0 > .elementor-widget-container{margin:103px 0px 0px 0px;padding:100px 0px 65px 150px;}.elementor-32 .elementor-element.elementor-element-336eafb0{z-index:3;}@media(max-width:1024px){.elementor-32 .elementor-element.elementor-element-21451e44 > .elementor-element-populated{padding:35px 35px 35px 35px;}.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-modern-heading-primary{font-size:20px;letter-spacing:4.7px;margin:0px 0px 0px 0px;}.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-modern-heading-secondary{font-size:56px;line-height:64px;margin:25px 0px 0px 0px;}.elementor-32 .elementor-element.elementor-element-336eafb0 > .elementor-widget-container{padding:65px 110px 65px 110px;}}@media(max-width:767px){.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-modern-heading-primary{font-size:0px;line-height:0px;}.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-modern-heading-secondary{font-size:34px;line-height:50px;margin:0px 0px 0px 0px;}.elementor-32 .elementor-element.elementor-element-336eafb0 > .elementor-widget-container{margin:120px 0px 50px 0px;padding:30px 65px 30px 65px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-336eafb0 */.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-modern-heading-primary:before {
+    content:'';
+    height: 3px;
+    width: 64px;
+    background-color:#FFF;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 25px;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0{
+    position: relative;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 576px;
+    border: 30px solid #fea75e;
+    box-shadow: 0 3px 35px rgba(0, 0, 0, 0.16);
+    z-index: 1;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-widget-modern-heading {
+    position: relative;
+    z-index: 2;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-frame-boxed-darken::after{
+    background-color: #fea75e;
+    top: 35px;
+    bottom: 35px;
+    right: 25px;
+    left: 25px;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-columns .entry-main {
+     display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse; 
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-columns .aux-overlay-content .entry-header {
+    flex: 0 0 100%;
+    padding: 0 44px 35px 44px;
+    text-align: left;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-columns .aux-overlay-content .entry-info {
+    flex: 0 0 100%;
+    padding: 0 44px 3px 44px;
+    margin-bottom: 0;
+    text-align: left;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-columns .aux-overlay-content .entry-tax a {
+    color: rgba(255,255,255,0.8);
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-columns .aux-overlay-content {
+    top: auto;
+    bottom: 0;
+    transform:none;
+    padding: 35px 25px;
+    height:100%;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-columns .aux-overlay-content  .entry-main {
+    margin-bottom: 0;
+    position: absolute;
+    left: 25px;
+    right: 25px;
+    bottom: 35px;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-hover-active:hover .aux-frame-boxed-darken::after {
+    opacity: 0.95;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-arrow-post-link  {
+    display: none !important;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-arrow-nav.aux-round {
+    box-shadow:none;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-pagination {
+    display: none;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-services-custom-text {
+    display:inline-flex;
+    align-items: center;
+    box-shadow: 0 3px 35px rgba(0, 0, 0, 0.16);
+    border: 10px solid #fea75e;
+    position: absolute;
+    bottom: 66px;
+    left: -190px;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-services-custom-text .number {
+    font-size: 135px;
+    line-height: 100%;
+    padding-right: 17px;
+    padding-left: 55px;
+
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-services-custom-text .text {
+    padding-left: 17px;
+    padding-right: 40px;
+    padding-top: 47px;
+    padding-bottom: 47px;
+
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-staff .aux-widget-staff.aux-wrap-style-simple .aux-staff-header:before {
+    padding-top: 98%;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-staff .aux-widget-staff.aux-wrap-style-simple .aux-staff-header img {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+ }
+ 
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-staff .aux-widget-staff.aux-wrap-style-simple .col-subtitle {
+      display:inline-block;
+ }
+ 
+.elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-staff .aux-widget-staff.aux-wrap-style-simple .aux-staff-footer {
+     border:none;
+     padding:0;
+     float:right;
+     margin-right: -10px;
+ }
+ 
+.elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-contact-form .aux-arch-form-inputs {
+     display: flex;
+ }
+.elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-contact-form .aux-arch-form-inputs .wpcf7-form-control-wrap.your-email {
+    padding: 0 27px;
+ }
+.elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-contact-form .aux-arch-form-inputs input {
+    background: rgba(255,255,255,0.85);
+    border: none;
+    color: #7a7a7a;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 19px;
+    padding: 18px 20px;
+    height: 55px;
+  }
+  
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-inputs input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #7a7a7a;
+  font-style: normal;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-inputs input::-moz-placeholder { /* Firefox 19+ */
+  color: #7a7a7a;
+    font-style: normal;
+
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-inputs input:-ms-input-placeholder { /* IE 10+ */
+  color: #7a7a7a;
+    font-style: normal;
+
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-inputs input:-moz-placeholder { /* Firefox 18- */
+  color: #7a7a7a;
+    font-style: normal;
+
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-textarea {
+    margin-top: 5px;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-textarea  textarea{
+    background: rgba(255,255,255,0.85);
+    border: none;
+    color: #7a7a7a;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 19px;
+    padding: 18px 20px;
+    height: 136px;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-textarea  textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #7a7a7a;
+  font-style: normal;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-textarea  textarea::-moz-placeholder { /* Firefox 19+ */
+  color: #7a7a7a;
+    font-style: normal;
+
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-textarea  textarea:-ms-input-placeholder { /* IE 10+ */
+  color: #7a7a7a;
+    font-style: normal;
+
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-textarea  textarea:-moz-placeholder { /* Firefox 18- */
+  color: #7a7a7a;
+    font-style: normal;
+
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-submit {
+    margin-top: 80px;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-contact-form .aux-arch-form-submit input {
+    float: right;
+    margin: 0;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.45px;
+    padding: 17px 40px;
+    background: none;
+    border: 2px solid #FFF;  
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-info-box br {
+    display: none;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-info-box .margin {
+    margin-top: 38px;
+    display: block;
+}
+
+.hentry .entry-main,
+.hentry .entry-content{
+    margin-bottom : 0;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .elementor-element.aux-arch-home-services-box:hover .aux-ico-box,
+.elementor-32 .elementor-element.elementor-element-336eafb0 .elementor-element.aux-arch-home-services-box:hover .col-title
+{
+    color: #FFF !important;
+} 
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .elementor-element.aux-arch-home-services-box:hover .widget-content{
+    color: rgba(255,255,255, 0.6) !important;
+}
+
+@media screen and (max-width: 1100px) {
+    .elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-header-text:before {
+        right: 35px;
+        left: 35px;
+        width: calc(100% - 75px);
+    }
+    
+   .elementor-32 .elementor-element.elementor-element-336eafb0  .elementor-element.aux-arch-home-project-resp {
+        text-align:center;
+    }
+    .elementor-32 .elementor-element.elementor-element-336eafb0  .elementor-element.aux-arch-home-project-resp .aux-modern-heading-divider {
+         margin: auto;
+     }
+   .elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-project-button-resp {
+         text-align: center;
+     }
+    .elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-services-custom-text {
+        bottom: 135px;
+        left: 50%;
+        transform: translateX(-50%) translateY(100%);
+     }
+    .elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-client-resp .aux-modern-heading-divider {
+         margin-right: auto;
+         margin-left: auto;
+     }
+     
+    .elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-contact-form .aux-arch-form-inputs > br {
+         display: none;
+     }
+    
+}
+
+@media screen and (max-width: 768px) {
+   .elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-header-text .aux-modern-heading-primary:before {
+        display:none;
+    }
+    
+   .elementor-32 .elementor-element.elementor-element-336eafb0:before {
+        border-width: 15px;
+    }
+   .elementor-32 .elementor-element.elementor-element-336eafb0  .aux-arch-home-contact-form .aux-arch-form-inputs{
+        display: block;
+        padding-bottom: 70px;
+    }
+    
+}
+
+@media screen and (min-width: 769px) and (max-width: 1100px) {
+   .elementor-32 .elementor-element.elementor-element-336eafb0 > .elementor-widget-container {
+        padding: 100px 110px 65px 110px !important;
+    }
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-overlay-buttons .aux-hover-circle-plus  {
+    float: right;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-overlay-buttons .aux-hover-circle-plus .aux-lightbox-btn {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-overlay-buttons .aux-hover-circle-plus .aux-lightbox-btn .aux-overlay {
+    display:none;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-overlay-buttons .aux-hover-circle-plus .aux-lightbox-btn .aux-black {
+    display:none;
+}
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-arch-home-port .aux-portfolio-overlay-buttons .aux-hover-circle-plus .aux-lightbox-btn:hover .aux-white {
+    opacity: 1;
+}
+
+.elementor-32 .elementor-element.elementor-element-336eafb0 .aux-fold {
+    padding-right: 70px;
+    padding-left: 70px;
+}/* End custom CSS */
